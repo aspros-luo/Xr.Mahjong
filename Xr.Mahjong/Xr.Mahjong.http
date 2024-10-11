@@ -1,0 +1,11 @@
+@Xr.Mahjong_HostAddress = http://localhost:5152
+
+GET {{Xr.Mahjong_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Xr.Mahjong_HostAddress}}/todos/1
+Accept: application/json
+
+###

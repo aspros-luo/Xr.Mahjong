@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xr.Mahjong.Api", "Xr.Mahjong\Xr.Mahjong.Api.csproj", "{DEFD2E7A-6F33-4EE2-8DD9-765E74F73FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xr.Mahjong.Domain", "Xr.Mahjong.Domain\Xr.Mahjong.Domain.csproj", "{C31CF96A-1A2B-4417-834D-6621ACF35605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xr.Mahjong.Application", "Xr.Mahjong.Application\Xr.Mahjong.Application.csproj", "{FB07B8E8-ACE5-440D-9267-333676CAAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xr.Mahjong.Infrastructure", "Xr.Mahjong.Infrastructure\Xr.Mahjong.Infrastructure.csproj", "{47288AB9-A243-45F7-95E5-14687390F5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFD2E7A-6F33-4EE2-8DD9-765E74F73FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFD2E7A-6F33-4EE2-8DD9-765E74F73FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFD2E7A-6F33-4EE2-8DD9-765E74F73FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFD2E7A-6F33-4EE2-8DD9-765E74F73FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31CF96A-1A2B-4417-834D-6621ACF35605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31CF96A-1A2B-4417-834D-6621ACF35605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31CF96A-1A2B-4417-834D-6621ACF35605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31CF96A-1A2B-4417-834D-6621ACF35605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB07B8E8-ACE5-440D-9267-333676CAAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB07B8E8-ACE5-440D-9267-333676CAAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB07B8E8-ACE5-440D-9267-333676CAAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB07B8E8-ACE5-440D-9267-333676CAAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47288AB9-A243-45F7-95E5-14687390F5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47288AB9-A243-45F7-95E5-14687390F5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47288AB9-A243-45F7-95E5-14687390F5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47288AB9-A243-45F7-95E5-14687390F5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE37AF29-C01A-42F2-B9F3-3A2DE2301A4E}
+	EndGlobalSection
+EndGlobal
